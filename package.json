@@ -1,16 +1,16 @@
 {
-  "name": "@uniswap/sdk-core",
+  "name": "@hubdao/sdk-core",
   "license": "MIT",
   "version": "1.0.9",
-  "description": "⚒️ An SDK for building applications on top of Uniswap V3",
+  "description": "⚒️ An SDK for building applications on top of Hubdao",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk-core.git",
+  "repository": "https://harold4funit@bitbucket.org/uniswap-clone/hubdao-sdk-core.git",
   "keywords": [
-    "uniswap",
+    "hubdao",
     "ethereum"
   ],
   "module": "dist/sdk-core.esm.js",
