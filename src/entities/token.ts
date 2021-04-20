@@ -68,7 +68,7 @@ export const WHT: { [chainId in ChainId]: Token } = {
     ChainId.TESTNET,
     '0x7af326b6351c8a9b8fb8cd205cbe11d4ac5fa836',
     18,
-    'WETH9',
-    'Wrapped Ether'
+    'WHT',
+    'Wrapped HT'
   )
 }

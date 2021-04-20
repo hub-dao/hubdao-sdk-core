@@ -1,7 +1,7 @@
 {
   "name": "@hubdao/sdk-core",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "⚒️ An SDK for building applications on top of Hubdao",
   "author": "harold_funit",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   "repository": "https://github.com/hub-dao/hubdao-sdk-core.git",
   "keywords": [
     "hubdao",
-    "ethereum"
+    "huobi ecochain"
   ],
   "module": "dist/sdk-core.esm.js",
   "scripts": {
